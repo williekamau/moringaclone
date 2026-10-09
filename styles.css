@@ -1,0 +1,31 @@
+#special {
+    background-color: #f3e8f0;
+}   
+
+.favourite {
+    color: #e027b2;
+}
+input[type="text"] {
+
+  border: 3px solid green;
+
+}
+
+input[type="email"] {
+
+  border: 3px solid orange;
+
+}
+ 
+input[type="contacts"] {
+
+  border: 3px solid blue;
+
+}
+body {
+
+  font-family: 'Open Sans', sans-serif;
+
+  font-weight: 300;
+
+}
